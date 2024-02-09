@@ -44,7 +44,7 @@ public class CreatingUserInputFrom {
         userInputForm.setLayout(new GridLayout(6, 2, 20 , 25));
         userInputForm.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         userInputForm.setSize(420, 420);
-        userInputForm.setResizable(false);
+        //userInputForm.setResizable(false);
         userInputForm.setVisible(true);
 
 
